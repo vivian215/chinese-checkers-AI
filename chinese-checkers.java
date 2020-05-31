@@ -1114,7 +1114,6 @@ public class ChineseCheckers extends JFrame {
 	    // ALL AI FUNCTIONS (MADE BY vivian215)
 	    // Everything else not included between this and my comment below is mainly rycnhoj's work
 	    /////////////////////////////////////////////////////
-	    I had to change and add a few things to incorporate the AI into the game
 	    private int[] aiPos = {0, 1, 2, 3, 4, 5, 6, 7, 8, 9};
 	    
 	    // AI init

@@ -1,6 +1,6 @@
 # chinese-checkers-AI
 A chinese checkers AI that you can play against! 
-Disclaimer: it is based off of an existing open-source library for chinese checkers. We added in the AI.
+Disclaimer: it is based off of an existing open-source library for chinese checkers. I added in the AI.
 
 Instructions for how to compile and run:
 1. Open a code editing software (e.g. Eclipse, IntelliJ, VSCode)
